@@ -55,12 +55,6 @@
 <br />
 <br />
 
----
-
-➡️ [more blog posts...](https://chicorycom.net)
-
----
-
 
 [website]: https://chicorycom.net
 [twitter]: https://twitter.com/AssaneSarr4
