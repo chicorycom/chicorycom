@@ -1,13 +1,16 @@
 ### Your Security System Network Integrator. [Chicorycom][website] 👋
 
 [![Website](https://img.shields.io/website?label=chicorycom.net&style=for-the-badge&url=https%3A%2F%2Fchicorycom.net)](https://chicorycom.net)
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/AssaneSarr4?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
+
 
 ## Data network and telecommunications system infrastructure engineering, study, sizing and mass deployment. Develop, Web-App, AppMobile, Management Application, Industry Software, Home Automation.
 
-![Chicorycom's github stats](https://github-readme-stats.vercel.app/api?username=chicorycom&count_private=true&show_icons=true&theme=radical&hide=contribs)
+![Chicorycom's github stats](https://github-readme-stats.vercel.app/api?username=chicorycom&count_private=true&show_icons=true&theme=monokai)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicorycom&layout=compact&theme=monokai)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chicorycom&repo=nginx-rtmp-module&theme=monokai)
 
 - 🔭 Chicorycom currently working on a [intellij][website]!
 - 🌱 Chicorycom currently learning everything 🤣
@@ -44,6 +47,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Vue js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
+
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
