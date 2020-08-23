@@ -13,10 +13,8 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chicorycom&repo=nginx-rtmp-module&theme=monokai)
 
 - 🔭 Chicorycom currently working on a [intellij][website]!
-- 🌱 Chicorycom currently learning everything 🤣
-- 👯 Chicorycom looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Assane Sarr Fun fact: I love to draw and play guitar
 
 ### Connect with me:
 
