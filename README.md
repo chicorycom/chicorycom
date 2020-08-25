@@ -52,11 +52,20 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+
+<br />
+<br />
+
+- - -
+
+### Network and Tools:
+
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
-<br />
-
+[<img align="left" alt="Cisco Systems" width="26px" src="https://avatars2.githubusercontent.com/u/1376999?s=200&v=4" />][website]
+[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][website]
+[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/7/7e/LOGO_Nmap.jpg" />][website]
+[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />][website]
+[<img align="left" alt="Qgis" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/QGis_Logo.png" />][website]
 
 [website]: https://chicorycom.net
 [twitter]: https://twitter.com/AssaneSarr4
