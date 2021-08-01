@@ -1,6 +1,6 @@
 ### Your Security System Network Integrator. [Chicorycom][website] 👋
 
-[![Website](https://img.shields.io/website?label=chicorycom.net&style=for-the-badge&url=https%3A%2F%2Fchicorycom.net)](https://chicorycom.net)
+[![Website](https://img.shields.io/website?label=chicorycom.net&style=for-the-badge&url=https%3A%2F%2Fchicorycom.net)](http://o94t0aflmu.preview.infomaniak.website)
 
 
 ## Data network and telecommunications system infrastructure engineering, study, sizing and mass deployment. Develop, Web-App, AppMobile, Management Application, Industry Software, Home Automation.
