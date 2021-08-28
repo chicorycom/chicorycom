@@ -71,7 +71,7 @@
 [<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />][website]
 [<img align="left" alt="Qgis" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/QGis_Logo.png" />][website]
 
-[website]: https://chicorycom.net
+[website]: http://o94t0aflmu.preview.infomaniak.website
 [twitter]: https://twitter.com/AssaneSarr4
 [youtube]: https://www.youtube.com/channel/UCF0WXD9RGO-54AfhUldXndA
 [instagram]: https://instagram.com/chicoryproduction
