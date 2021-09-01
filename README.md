@@ -1,6 +1,6 @@
 ### Your Security System Network Integrator. [Chicorycom][website] 👋
 
-[![Website](https://img.shields.io/website?label=chicorycom.net&style=for-the-badge&url=https%3A%2F%2Fchicorycom.net)](http://o94t0aflmu.preview.infomaniak.website)
+[![Website](https://img.shields.io/website?label=chicorycom.net&style=for-the-badge&url=https%3A%2F%2Fchicorycom.net)](https://chicorycom.net)
 
 
 ## Data network and telecommunications system infrastructure engineering, study, sizing and mass deployment. Develop, Web-App, AppMobile, Management Application, Industry Software, Home Automation.
@@ -71,7 +71,7 @@
 [<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" />][website]
 [<img align="left" alt="Qgis" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/QGis_Logo.png" />][website]
 
-[website]: http://o94t0aflmu.preview.infomaniak.website
+[website]: https://chicorycom.net
 [twitter]: https://twitter.com/AssaneSarr4
 [youtube]: https://www.youtube.com/channel/UCF0WXD9RGO-54AfhUldXndA
 [instagram]: https://instagram.com/chicoryproduction
