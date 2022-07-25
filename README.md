@@ -5,13 +5,6 @@
 
 ## Data network and telecommunications system infrastructure engineering, study, sizing and mass deployment. Develop, Web-App, AppMobile, Management Application, Industry Software, Home Automation.
 
-![Chicorycom's github stats](https://github-readme-stats.vercel.app/api?username=chicorycom&count_private=true&show_icons=true&theme=monokai)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicorycom&layout=compact&theme=monokai)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chicorycom&repo=nginx-rtmp-module&theme=monokai)
-
 - 🔭 Chicorycom currently working on a [intellij][website]!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Assane Sarr Fun fact: I love to draw and play guitar
